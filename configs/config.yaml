@@ -64,7 +64,7 @@ llm:
     host: http://localhost:11434
 
 prompt:
-  version: answer_v2            # which file in configs/prompts/ to use; logged with every answer
+  version: answer_broken_demo            # which file in configs/prompts/ to use; logged with every answer
 
 logging:
   answers_log: logs/answers.jsonl  # one line per answered question (question, answer, version, latency)
