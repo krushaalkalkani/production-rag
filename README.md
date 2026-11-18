@@ -10,7 +10,8 @@ Companies: AAPL, MSFT, NVDA, TSLA, AMZN, GOOGL, META, JPM, NFLX, AMD (2,439 chun
 
 *Ask a question → cited answer → open source [1] to see the passage it came from → an out-of-scope
 question is refused. Recorded from the real UI; the yellow highlight on the cited line was added
-for the recording.* Case study: [krushalkalkani.com/ask-my-docs](https://krushalkalkani.com/ask-my-docs.html)
+for the recording.* Project site: [ask-my-docs-ivory.vercel.app](https://ask-my-docs-ivory.vercel.app)
+(source in [`site/`](site/), deployed with Vercel).
 
 ## Quick start
 
