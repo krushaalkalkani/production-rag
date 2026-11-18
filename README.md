@@ -6,6 +6,12 @@ Every pull request is gated by an automated evaluation that **fails the build if
 
 Companies: AAPL, MSFT, NVDA, TSLA, AMZN, GOOGL, META, JPM, NFLX, AMD (2,439 chunks).
 
+![Demo: a cited answer, the source passage behind it, and a refused out-of-scope question](docs/demo.gif)
+
+*Ask a question → cited answer → open source [1] to see the passage it came from → an out-of-scope
+question is refused. Recorded from the real UI; the yellow highlight on the cited line was added
+for the recording.* Case study: [krushalkalkani.com/ask-my-docs](https://krushalkalkani.com/ask-my-docs.html)
+
 ## Quick start
 
 ```bash
